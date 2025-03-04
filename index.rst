@@ -5,7 +5,7 @@ The Vizio.com Setup Enter Code is a unique activation code displayed on your Viz
 
 .. image:: get.png
    :alt: Vizio.com setup enter code
-   :target: https://ww0.us/?aHR0cHM6Ly9teTV0dmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://ww0.us?aHR0cHM6Ly92aXppb2NvbXNldHVwZW50ZXJjb2RlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 
 
@@ -13,7 +13,7 @@ The Vizio.com Setup Enter Code is a unique activation code displayed on your Viz
 What is the Vizio.com setup enter code?
 ================================
 
-The `Vizio.com Setup Enter Code <#>`_ is a unique activation code displayed on your Vizio Smart TV during the setup process. This code is required to authenticate and activate your device. 
+The `Vizio.com Setup Enter Code <https://viziocomsetupentercode.readthedocs.io/en/latest/>`_ is a unique activation code displayed on your Vizio Smart TV during the setup process. This code is required to authenticate and activate your device. 
 
 Do I need a Vizio account to complete the setup?
 ================================
@@ -59,4 +59,4 @@ Can I use the same setup code on multiple devices?
 Conclusion
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Setting up your Vizio Smart TV using the `Vizio.com Setup Enter Code <#>`_ ensures a seamless and secure activation process. While a Vizio account is not always required for basic functionality, it enhances the experience by enabling SmartCast, cloud backup, and firmware updates. The activation code plays a vital role in linking your device to your account, unlocking premium features, and simplifying setup. 
+Setting up your Vizio Smart TV using the `Vizio.com Setup Enter Code <https://viziocomsetupentercode.readthedocs.io/en/latest/>`_ ensures a seamless and secure activation process. While a Vizio account is not always required for basic functionality, it enhances the experience by enabling SmartCast, cloud backup, and firmware updates. The activation code plays a vital role in linking your device to your account, unlocking premium features, and simplifying setup. 
