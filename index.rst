@@ -5,7 +5,7 @@ The Vizio.com Setup Enter Code is a unique activation code displayed on your Viz
 
 .. image:: get.png
    :alt: Vizio.com setup enter code
-   :target:https://link72.com/?GZGqGXnYcaJBxaFbabRXoSggDpBc5xE49qquCtHFeGp9AeoFSOTu3Buek400WR1ClNSN7vC5Lw
+   :target: https://link72.com/?GZGqGXnYcaJBxaFbabRXoSggDpBc5xE49qquCtHFeGp9AeoFSOTu3Buek400WR1ClNSN7vC5Lw
 
 
 
