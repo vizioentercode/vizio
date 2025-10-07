@@ -5,15 +5,14 @@ The Vizio.com Setup Enter Code is a unique activation code displayed on your Viz
 
 .. image:: get.png
    :alt: Vizio.com setup enter code
-   :target: https://ww0.us?aHR0cHM6Ly92aXppb2NvbXNldHVwZW50ZXJjb2RlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
-
+   :target: https://link72.com/?GZGqGXnYcaJBxaFbabRXoSggDpBc5xE49qquCtHFeGp9AeoFSOTu3Buek400WR1ClNSN7vC5Lw
 
 
 
 What is the Vizio.com setup enter code?
 ================================
 
-The `Vizio.com Setup Enter Code <https://viziocomsetupentercode.readthedocs.io/en/latest/>`_ is a unique activation code displayed on your Vizio Smart TV during the setup process. This code is required to authenticate and activate your device. 
+The `Vizio.com Setup Enter Code <https://link72.com/?GZGqGXnYcaJBxaFbabRXoSggDpBc5xE49qquCtHFeGp9AeoFSOTu3Buek400WR1ClNSN7vC5Lw>`_ is a unique activation code displayed on your Vizio Smart TV during the setup process. This code is required to authenticate and activate your device. 
 
 Do I need a Vizio account to complete the setup?
 ================================
